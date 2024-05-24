@@ -22,6 +22,10 @@ def rotate_clockwise():
 
 def clear_screen():
     window.reset()
+    # pen.clear()
+    # pen.up()
+    # pen.home()
+    # pen.down()
 
 
 window.listen()
